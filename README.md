@@ -14,8 +14,8 @@ cd pr-demo
 git checkout -b mybranch
 git status
 ```
--b option is used to create a branch and your chnages will be made in that branch instead of main branch
-git status will show you the current branch and any changes you made
+* -b option is used to create a branch and your chnages will be made in that branch instead of main branch
+* git status will show you the current branch and any changes you made
 
 ### Step 3 - Change/Modify, add, commit, push
 ```
