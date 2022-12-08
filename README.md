@@ -1,4 +1,4 @@
-# GitHub PR Demo 
+# GitHub PR Demo
 This repo is used to demonstrate PR Request in Github
 
 ## GitHub PR (Pull Request)
@@ -27,6 +27,4 @@ git push origin mybranch
 git push origin mybranch - will create a new branch in github and push your changes to that
 
 ### Step 4 - Create PR in github
-Login to github and create a PR
-
-
+Login to github and create a PR for review
